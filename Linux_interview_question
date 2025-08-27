@@ -42,5 +42,9 @@ Q. How do you locate a file name having a string? How do you do this from root d
 Q. How to search a string within a file? From all the sub directory file as well?
 Q. Systemd and system init diﬀerence or correlation.
 Q. How to check all serives were up after a system boot?
-Q. If any services didn’t start, how to troubleshoot?
+Q. If any services didn’t start, how to troubleshoot? 
+ Q. Give me some commands in Linux
+ Q. Command to generate SSH Key
+ Q. What if user lost SSH key?
+
 
