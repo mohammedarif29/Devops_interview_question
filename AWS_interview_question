@@ -1,1 +1,7 @@
-
+Q. What are all the possible ways to deploy an Nginx server on AWS?
+Q. What are the pre-requisites for VPC peering between two VPCs?
+Q. What problems occur when two VPCs have overlapping CIDR blocks?
+Q. How can you enable communication between overlapping CIDR VPCs?
+Q. What is a Transit Gateway and how does it help in VPC communication?
+Q. How can a jump server be used in overlapping network scenarios?
+Q. Can you explain transitive routing between VPCs A, B, and C?
