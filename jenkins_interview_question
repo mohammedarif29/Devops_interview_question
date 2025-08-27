@@ -5,5 +5,7 @@ Q. In case of a failed deployment, how would you design a rollback strategy?
 Q. What’s the difference between Blue-Green and Canary deployment strategies, and when would you choose one over the other?
 Q. How do you monitor and log microservices effectively in production?
 Q. Explain the importance of container orchestration and why Kubernetes is widely used.
+Q. How do you handle secrets or sensitive information in jenkins ?
+Q. Jenkins shared library ?
 
 
