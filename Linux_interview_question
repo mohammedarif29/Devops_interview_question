@@ -1,1 +1,38 @@
-
+🔥 Linux Most Asked Interview Q&A
+1️⃣ Basics & Commands
+Q: Difference between absolute path and relative path?
+ A: Absolute starts from /; relative starts from current directory.
+Q: How to find current working directory?
+ A: pwd
+Q: Search a string inside files?
+ A: grep "string" filename or grep -r "string" /path
+2️⃣ Process Management
+Q: Check running processes?
+ A: ps -ef, top, htop
+Q: Kill a process?
+ A: kill -9 <PID>
+Q: nice vs renice?
+ A: nice sets priority at start, renice modifies running process.
+3️⃣ File System & Permissions
+Q: Check file permissions?
+ A: ls -l
+Q: Change ownership/permissions?
+ A: chown user:group file, chmod 755 file
+Q: Find large files?
+ A: find / -type f -size +100M
+4️⃣ Networking
+Q: Check open ports?
+ A: netstat -tulnp, ss -tulnp
+Q: Test connectivity?
+ A: ping <IP>, telnet <IP> <port>
+5️⃣ Logs & Monitoring
+Q: Linux system logs location?
+ A: /var/log/
+Q: Continuously monitor log file?
+ A: tail -f logfile.log
+6️⃣ System Performance
+Q: Check high CPU/memory usage?
+ A: top, ps -eo pid,cmd,%cpu --sort=-%cpu | head
+ A: ps -aux --sort=-%mem | head for memory
+💡 Pro tip: Don’t just memorize commands—briefly explain why. Example:
+“To check which process consumes high CPU, I use top; for sorted output, I use ps -eo ... with sorting options.”
