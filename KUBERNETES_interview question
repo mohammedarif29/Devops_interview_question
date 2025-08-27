@@ -10,4 +10,23 @@ Q. How do you handle certificate rotation in on-prem Kubernetes clusters?
 Q. What are the challenges with scheduling pods in a multi-node, multi-AZ setup?
 Q. How does the Kubernetes scheduler decide where to place pods?
 Q. What happens when a StatefulSet pod cannot mount its volume after moving to another node?
-
+Q.A pod is in the Running state, but users see 502s. What now?
+Healthy ≠ Ready. Time to look at readiness probes, DNS, and app logs.
+Q. kubelet is healthy, but new pods don’t schedule. Why?
+Can you reason through taints, node pressure, and CNI readiness?
+Q. Helm upgrade corrupted your PVCs. Rollback strategy?
+Hint: helm rollback isn’t always a safe exit.
+Q. Logs are missing for OOMKilled pods. How do you recover?
+Forensic debugging 101, sidecars, centralized logging, and ephemeral volumes.
+Q. You see 10 Pending pods but 5 idle nodes. Explain.
+Node affinity? Resource requests? Stuck init containers?
+Q. How would you design cross-region K8s HA with low RTO?
+Talk multi-region DNS, storage sync, stateful failover, and observability.
+Q. Your HPA isn’t scaling. Prometheus shows 80% CPU. RCA path?
+Metrics server? API throttling? Cooldowns?
+Q. eBPF shows dropped packets in the cluster. What now?
+Time to trace CNI plugins, kernel versions, and underlying network policies.
+Q. The systemd service in a node fails silently. Pods are degraded. Debug?
+Can you correlate journald logs with pod behavior?
+Q. Your dev team wants self-service namespaces. What’s your RBAC + Quota plan?
+The real test of engineering maturity is governance with velocity.
