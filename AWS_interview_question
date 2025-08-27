@@ -21,5 +21,7 @@ Q. What are ways database can be installed in aws?
 Q. Explain on load Balancer in AWS?
 Q. Explain security groups and NACLs. 
 Q. With example, explain application load balancing and network load balancing.
-Q. In aws load balancing, what’s the use of sticky session?
+Q. In aws load balancing, what’s the use of sticky session? 
+Q. S3 bucket policy ?
+
 
