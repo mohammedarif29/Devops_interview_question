@@ -33,6 +33,9 @@ Q. How do you configure CPU utilization on your CloudWatch dashboard?
 Q. How do you attach an SSL certificate to an S3 bucket?
 Q. What type of encryption have you implemented in your project?
 Q. If an S3 bucket has a read-only policy, can you modify objects in the bucket?
+Q. How do you attach policies to IAM users, either individually or by group?
+Q. Have you used any tools to create customized Amazon Machine Images (AMIs)?
+Q. How does an Elastic Load Balancer (ELB) distribute traffic?
 
 
 
