@@ -7,3 +7,10 @@ Q. Build, Write a AWS VPC creation using Terraform ?
 Q. Can you explain the Terraform plan and its purpose?
 Q. Why did you choose Terraform over Boto3 for infrastructure provisioning?
 Q. What is a Content Delivery Network (CDN), and how does it work?
+Q. Why did you choose Terraform over Boto3 for infrastructure provisioning?
+Q. What is Ansible, and what is its purpose?
+Q. What language do you use in Ansible?
+Q. Where do you run Terraform code, remotely or locally?
+Q. What are Terraform modules, and have you used any in your project?
+Q. What environments have you set up for your project?
+Q. Do you have separate Jenkins servers for each environment?
