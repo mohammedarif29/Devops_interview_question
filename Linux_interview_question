@@ -35,4 +35,12 @@ Q: Check high CPU/memory usage?
  A: top, ps -eo pid,cmd,%cpu --sort=-%cpu | head
  A: ps -aux --sort=-%mem | head for memory
 💡 Pro tip: Don’t just memorize commands—briefly explain why. Example:
-“To check which process consumes high CPU, I use top; for sorted output, I use ps -eo ... with sorting options.”
+“To check which process consumes high CPU, I use top; for sorted output, I use ps -eo ... with sorting options.” 
+Q. Which flavour of Linux you know? Which flavours have you worked.
+Q. Which version of RHEL , have you worked?
+Q. How do you locate a file name having a string? How do you do this from root directory? Locate it from sub directory as well.
+Q. How to search a string within a file? From all the sub directory file as well?
+Q. Systemd and system init diﬀerence or correlation.
+Q. How to check all serives were up after a system boot?
+Q. If any services didn’t start, how to troubleshoot?
+
