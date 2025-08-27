@@ -3,3 +3,5 @@ Q. How do you handle state file management in Terraform?
 Q. How do you detect and resolve drift in Terraform-managed infrastructure?
 Q. How do you manage secrets securely in Terraform?
 Q. Why should you use a remote backend for Terraform?
+Q. Build, Write a AWS VPC creation using Terraform ?
+
