@@ -30,3 +30,21 @@ Q. The systemd service in a node fails silently. Pods are degraded. Debug?
 Can you correlate journald logs with pod behavior?
 Q. Your dev team wants self-service namespaces. What’s your RBAC + Quota plan?
 The real test of engineering maturity is governance with velocity.
+Q. Where do you configure min and maximum pod?
+Q. How do you check how many pods were started?
+Q. What are life cycles of a pod?
+Q. If any pods were failing to start, how do you start troubleshooting?
+Q. Explain, how do min and max pod configuration In load balancing?
+Q. How does a kubernetes know when to spin up an additional pod? Give the configuration
+Details.
+Q. Explain about cluster in kubernetes.
+Q. In order to host an enterprise application, what are all things you would consider
+Q. Ingress and egress configuration. Explain in detail. How would you configure it.
+Q. How would you configure routing of application to accept ingress.
+Q. How do you handle database creeds in eks or k8?
+Q. Explain about secrets and configMap
+Q. How the configMap is used within application
+Q. How do you secure transport layer security
+Q. Across zone load balancing - explain the concept and provide details on how will you
+configure
+
