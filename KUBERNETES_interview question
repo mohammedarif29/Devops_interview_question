@@ -53,3 +53,15 @@ Q. Deployment strategies rolling update & when should we use ?
 Q. learn kubernetes pods/node related issues & monitoring
 Q. disk space & permission errors related issues ? 
 Q. SSL Renew certificate related topics & issues (if expired) ?
+Q.  How much you are confident in Kubernetes & Docker?
+Q   How will you stop POD in K8s?
+Q.  How will you replicate a POD?
+Q.  Command to get logs in K8s?
+Q.  what will you do if POD is not responding?
+Q. What will you do if POD is getting more load and we need to stay it healthy before it gets died
+Q. What is docker?
+Q.  How docker is useful & how will you implement in your pipeline?
+Q.  How will you find out merge conflicts?
+Q.  what kind of tools will you prefer for SAST & DAST securities?
+Q. How will you manage your ServiceNow task assigned to you & what basis will you pick those and solve it?
+
