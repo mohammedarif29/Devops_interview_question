@@ -1,1 +1,5 @@
-
+Q. What are common challenges faced while working with Terraform?
+Q. How do you handle state file management in Terraform?
+Q. How do you detect and resolve drift in Terraform-managed infrastructure?
+Q. How do you manage secrets securely in Terraform?
+Q. Why should you use a remote backend for Terraform?
