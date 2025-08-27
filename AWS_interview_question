@@ -36,6 +36,16 @@ Q. If an S3 bucket has a read-only policy, can you modify objects in the bucket?
 Q. How do you attach policies to IAM users, either individually or by group?
 Q. Have you used any tools to create customized Amazon Machine Images (AMIs)?
 Q. How does an Elastic Load Balancer (ELB) distribute traffic?
-
-
+Q. Have you used any tools to create customized Amazon Machine Images (AMIs)?
+Q. Can you describe the different types of Load Balancers and provide examples?
+Q. What is the maximum runtime for a Lambda function?
+Q. What is the maximum memory size for a Lambda function?
+Q. How can you increase the runtime for a Lambda function?
+Q. What automations have you performed using Lambda in your project?
+Q. What modules have you used in your Lambda function?
+Q. Have you created an SNS topic for your project?
+Q. If you've exhausted IP addresses in your VPC, how would you provision new resources?
+Q. What is the purpose of access keys and secret keys in AWS?
+Q. Do you use the same AWS account for all environments?
+Q. Where do you write and save your Lambda function code?
 
