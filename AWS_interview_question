@@ -24,6 +24,15 @@ Q. With example, explain application load balancing and network load balancing.
 Q. In aws load balancing, what’s the use of sticky session? 
 Q. S3 bucket policy ?
 Q. What is the role of IAM roles and policies?
+Q. What is AWS Lambda, and how does it work?
+Q. How do you invoke a Lambda function, and where do you configure it?
+Q. Can you describe how Lambda handles scaling and event-based invocations?
+Q. What is Amazon CloudWatch, and have you configured any custom metrics?
+Q. What metrics are available on your CloudWatch dashboard?
+Q. How do you configure CPU utilization on your CloudWatch dashboard?
+Q. How do you attach an SSL certificate to an S3 bucket?
+Q. What type of encryption have you implemented in your project?
+Q. If an S3 bucket has a read-only policy, can you modify objects in the bucket?
 
 
 
