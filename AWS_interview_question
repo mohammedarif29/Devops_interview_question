@@ -5,3 +5,14 @@ Q. How can you enable communication between overlapping CIDR VPCs?
 Q. What is a Transit Gateway and how does it help in VPC communication?
 Q. How can a jump server be used in overlapping network scenarios?
 Q. Can you explain transitive routing between VPCs A, B, and C?
+Q. What are the differences between EC2, ECS, EKS, and Lambda? In which scenario would you choose one over the other?
+Q. How do you set up high availability and fault tolerance in AWS for a web application?
+Q. Explain the difference between scaling vertically and horizontally in AWS.
+Q. How would you implement a disaster recovery plan in AWS?
+Q. Can you walk through setting up an Auto Scaling Group (ASG) with load balancers?
+Q. How do IAM roles and policies differ from security groups in AWS?
+Q. What is the difference between S3 Standard, S3 Intelligent-Tiering, and S3 Glacier?
+Q. How would you secure sensitive data stored in AWS S3?
+Q. What are VPC Peering and Transit Gateway? When would you use them?
+Q. Explain how you would set up monitoring and alerting using CloudWatch for a production application.
+
