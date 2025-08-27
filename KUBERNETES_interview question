@@ -64,4 +64,8 @@ Q.  How docker is useful & how will you implement in your pipeline?
 Q.  How will you find out merge conflicts?
 Q.  what kind of tools will you prefer for SAST & DAST securities?
 Q. How will you manage your ServiceNow task assigned to you & what basis will you pick those and solve it?
+16. What type of deployment strategies are you using in your project?
+18. What is connection draining, and how does it work?
+20. What is auto-scaling, and how does it work?
+
 
