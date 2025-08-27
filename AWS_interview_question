@@ -15,4 +15,9 @@ Q. What is the difference between S3 Standard, S3 Intelligent-Tiering, and S3 Gl
 Q. How would you secure sensitive data stored in AWS S3?
 Q. What are VPC Peering and Transit Gateway? When would you use them?
 Q. Explain how you would set up monitoring and alerting using CloudWatch for a production application.
+Q. On Aws EC2, how to check applications came up?
+Q. On AWS, how do you check logs?
+Q. What are ways database can be installed in aws?
+Q. Explain on load Balancer in AWS?
+Q. Explain security groups and NACLs.
 
