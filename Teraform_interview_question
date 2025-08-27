@@ -6,4 +6,4 @@ Q. Why should you use a remote backend for Terraform?
 Q. Build, Write a AWS VPC creation using Terraform ?
 Q. Can you explain the Terraform plan and its purpose?
 Q. Why did you choose Terraform over Boto3 for infrastructure provisioning?
-
+Q. What is a Content Delivery Network (CDN), and how does it work?
