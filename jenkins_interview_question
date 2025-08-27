@@ -1,1 +1,9 @@
+Q. What are the key differences between Continuous Integration, Continuous Delivery, and Continuous Deployment?
+Q. What are some best practices you follow while writing CI/CD pipelines?
+Q. How would you handle secrets management in a DevOps setup?
+Q. In case of a failed deployment, how would you design a rollback strategy?
+Q. What’s the difference between Blue-Green and Canary deployment strategies, and when would you choose one over the other?
+Q. How do you monitor and log microservices effectively in production?
+Q. Explain the importance of container orchestration and why Kubernetes is widely used.
+
 
