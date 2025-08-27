@@ -47,4 +47,9 @@ Q. How the configMap is used within application
 Q. How do you secure transport layer security
 Q. Across zone load balancing - explain the concept and provide details on how will you
 configure
-
+Q. what is services in Kubernetes?
+Q. what is Namespace ?
+Q. Deployment strategies rolling update & when should we use ?
+Q. learn kubernetes pods/node related issues & monitoring
+Q. disk space & permission errors related issues ? 
+Q. SSL Renew certificate related topics & issues (if expired) ?
